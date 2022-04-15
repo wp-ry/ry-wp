@@ -1,0 +1,21 @@
+{
+    "name": "ry/ry-wp",
+    "description": "php",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ry\\RyWp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "瑞玉君",
+            "email": "3258581571@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.3|^8.0"
+    }
+}
