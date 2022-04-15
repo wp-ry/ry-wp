@@ -15,3 +15,6 @@ class Index
         return 'wp';
     }
 }
+
+$app  = new Index();
+echo $app->index();
